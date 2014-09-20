@@ -2,19 +2,19 @@
 # 技能信息
 
 ### 语言
-1. c/c++,php
-2. java
-3. node.js
+1. C/C++,PHP
+2. Java
+3. Node.js
 
 ### 数据库
-1. mysql
-2. mongodb
+1. MySQL
+2. MongoDB
 
 ### 操作系统
-* windows
-* linux
+* Windows
+* Linux
 
-**ps:**序号排前面的技能经验值较高
+**PS: **序号排前面的技能经验值较高
 
 
 
