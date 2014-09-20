@@ -4,13 +4,13 @@
 
 2014.5~2014.6
 
-**language:**php
+**Language: **php
 
-**websericeve:**apache
+**Web Sericeve: **apache
 
-**system:**centos5.5
+**System: **centos5.5
 
-**database:**mysql(主要),oracle
+**Database: **mysql(主要),oracle
 
 **过程：**
 1. 获取需求
