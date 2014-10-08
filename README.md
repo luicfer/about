@@ -12,5 +12,9 @@
 
 **地址:** 浙江省宁波市海曙区翠柏路89号
 
+**Blog:** [lucifer's blog](http://ikaros.club)
+
+**GitHub:** [传送门](https://github.com/luicfer)
+
 
 
