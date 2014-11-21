@@ -3,8 +3,8 @@
 
 ### 语言
 1. C/C++,PHP
-2. Java
-3. Node.js
+2. Node.js
+3. Java
 
 ### 数据库
 1. MySQL
@@ -13,6 +13,7 @@
 ### 操作系统
 * Windows
 * Linux
+* OS Xs
 
 ### 其他
 * 数据结构掌握良好
