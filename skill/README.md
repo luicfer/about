@@ -2,18 +2,19 @@
 # 技能信息
 
 ### 语言
-1. C/C++,PHP
-2. Node.js
+1. C/C++,Node.js
+2. PHP
 3. Java
 
 ### 数据库
 1. MySQL
 2. MongoDB
+3. Redis
 
 ### 操作系统
 * Windows
 * Linux
-* OS Xs
+* OS X
 
 ### 其他
 * 数据结构掌握良好
