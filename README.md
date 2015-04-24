@@ -10,7 +10,7 @@
 
 **手机:** 188xxxxx596
 
-**Blog:** [lucifer's blog](http://ikaros.club)
+**Blog:** [lucifer's blog](http://blog.ikaros.club)
 
 **GitHub:** [传送门](https://github.com/luicfer)
 
